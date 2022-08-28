@@ -1,2 +1,3 @@
 # Kaggle-American-Express---Default-Prediction
-Code for American Express Default prediction competition. 
+
+This repository consits my submitted solution (Top 50%) and end-of-competition analysis of the top performing publicly available model. 
